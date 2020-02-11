@@ -1,7 +1,7 @@
 # Учебный проект «Угадай мелодию» [![Build status][travis-image]][travis-url]
 
 * Студент: [Антон](https://up.htmlacademy.ru/react/3/user/469889).
-* Наставник: `Неизвестно`.
+* Наставник: [Владислав Пономарев](https://htmlacademy.ru/profile/id1366303).
 
 ---
 
