@@ -13,4 +13,3 @@ it(`<WelcomeScreen /> is rendered correctly`, () => {
 
   expect(tree).toMatchSnapshot();
 });
-
