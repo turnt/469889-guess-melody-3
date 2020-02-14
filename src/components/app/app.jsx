@@ -4,7 +4,7 @@ import WelcomeScreen from '../welcome-screen/welcome-screen.jsx';
 
 const App = ({errorsCount}) => {
   return (
-    <WelcomeScreen errorsCount={errorsCount} />
+    <WelcomeScreen errorsCount={errorsCount} onWelcomeButtonClick={() => {}} />
   );
 };
 
